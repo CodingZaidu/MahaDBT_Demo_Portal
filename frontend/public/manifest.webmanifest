@@ -1,0 +1,17 @@
+{
+  "name": "Scholarship Support",
+  "short_name": "Scholarship",
+  "description": "Scholarship discovery, application tracking and trusted guidance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#f5f7fb",
+  "icons": [
+    {
+      "src": "/scholarship-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
